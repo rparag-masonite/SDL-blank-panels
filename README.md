@@ -40,3 +40,17 @@ Sidelite Design
 ```
 e.g. flush-34-sdl-2-1-18-450
 ```
+
+## Folder Structure
+```
+├── design-files
+│   ├── [# of doors]
+│   |   └── [door configuration]
+│   |       └── [door configuration]_thumbnails.ai
+│   |       └── [door configuration]_imaging-tool.ai
+├── output
+│   ├── thumbnails
+│   |   ├── [door configration].png
+│   └── imaging-tool
+│   |   ├── [door configration].png
+└── README.md
